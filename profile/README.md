@@ -16,3 +16,5 @@ Voice Assistant OS is a Debian based Linux Operating System for converting a sin
 Currently this project hasn't been released yet, but check back later for updates and releases!
 
 For documentation, see [the documentaion repository](https://github.com/VoiceAssistantOS/docs), for releases see [the main repository](https://github.com/github.com/VoiceAssistantOS/vaOS).
+
+(We have a really good logo right??? I made it with gimp in like 10 minutes lol)
